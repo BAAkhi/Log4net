@@ -11,6 +11,7 @@ namespace akhilFirstGit
         static void Main(string[] args)
         {
             Console.WriteLine("fdgfdg");
+            Console.log("checking in changes");
         }
     }
 }
