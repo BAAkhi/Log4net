@@ -30,6 +30,8 @@ namespace akhilFirstGit
             Console.WriteLine("checks-24");
             
             Console.log("from new GitHub");
+            
+              Console.log("another from  new GitHub");
 
         }
     }
