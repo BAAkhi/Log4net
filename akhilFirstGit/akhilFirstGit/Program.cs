@@ -28,6 +28,8 @@ namespace akhilFirstGit
             
             //changes from visual studio --gitHub
             Console.WriteLine("checks-24");
+            
+            Console.log("from new GitHub");
 
         }
     }
