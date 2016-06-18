@@ -15,6 +15,8 @@ namespace akhilFirstGit
             Console.log("checking in changes");
             //chamges
             Console.WriteLine("new line");
+            
+            Console.log("changing in branch");
         }
     }
 }
