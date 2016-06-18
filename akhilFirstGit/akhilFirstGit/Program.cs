@@ -15,7 +15,7 @@ namespace akhilFirstGit
             Console.log("checking in changes");
             //chamges
             Console.WriteLine("new line");
-<<<<<<< HEAD
+
             
             Console.log("changing in branch");
             Console.Writeline("checking source tree");
@@ -28,8 +28,7 @@ namespace akhilFirstGit
             
             //changes from visual studio --gitHub
             Console.WriteLine("checks-24");
-=======
->>>>>>> parent of a7c895e... create new branch
+
         }
     }
 }
